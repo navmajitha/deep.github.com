@@ -52,7 +52,7 @@ body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size:14px;
-	color: #green;
+	color: green;
 }
 .pro-features {
 	position: fixed;
@@ -63,7 +63,7 @@ body{
 	font-size: 14px;
 	background: #fff;
 	text-align: left;
-	color: #green;
+	color: green;
 	top: 50%;
 	transform:translateY(-50%);
 	box-shadow: -4px 0px 5px #00000036;
@@ -79,12 +79,12 @@ body{
 }
 .pro-features li.big-title {
 	font-weight: 600;
-	color: #green;
+	color: green;
 	font-size: 15px;
 }
 .pro-features li.title {
 	font-weight: 600;
-	color: #green;
+	color: green;
 	font-size: 15px;
 }
 .pro-features .button{}
@@ -99,7 +99,7 @@ body{
 	text-transform: capitalize;
 }
 .pro-features li {
-	color: #green;
+	color: green;
 	margin: 0;
 	padding: 0;
 	line-height: 22px;
@@ -115,7 +115,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: #green;
+	color: green;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -128,7 +128,7 @@ body{
 	right: 15px;
 	padding: 10px 20px;
 	background: #1a76d1;
-	color: #fff;
+	color: black ;
 	font-size: 25px;
 	width: 45px;
 	height: 45px;
@@ -243,7 +243,7 @@ body{
 	Start Header CSS 
 =====================*/
 .header{
-	background-color:#fff;
+	background-color:black;
 	position:relative;
 }
 .header .navbar-collapse{
@@ -281,7 +281,7 @@ body{
 .header .top-contact li{
 	display:inline-block;
 	margin-right:25px;
-	color:#2C2D3F;
+	color:green;
 }
 .header .top-contact li:last-child{
 	margin-right:0;
@@ -290,10 +290,10 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#1A76D1;
+	color:balck;
 }
 .header .top-contact li i{
-	color:#1A76D1;
+	color:green;
 	margin-right:8px;
 }
 .header .header-inner {
