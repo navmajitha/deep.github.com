@@ -809,7 +809,7 @@ body{
 }
 .schedule .single-schedule .time-sidual li {
 	display: block;
-	color: #fff;
+	color: darkblue;
 	width: 100%;
 	margin-bottom:3px;
 }
@@ -861,7 +861,7 @@ body{
 }
 .Feautes .single-features .signle-icon i{
 	font-size:50px;
-	color:#1a76d1;
+	color:black;
 	position:absolute;
 	left:50%;
 	margin-left:-50px;
@@ -878,7 +878,7 @@ body{
 }
 .Feautes .single-features:hover .signle-icon i{
 	background:#1A76D1;
-	color:#fff;
+	color:parpal;
 	border-color:transparent;
 }
 .Feautes .single-features h3{
